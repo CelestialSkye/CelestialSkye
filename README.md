@@ -1,16 +1,13 @@
-## Hi there 👋
+# **Hello there**,
 
-<!--
-**CelestialSkye/CelestialSkye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Skye
 
-Here are some ideas to get you started:
+I am a frontend developer who likes building interactive, visually polished UI/UX focused web experiences. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My workflow is centered around **React** and **JavaScript**. I use **Tailwind CSS** for clean styling and **GSAP** for animations. I also handle my own design work, using **Figma** for prototyping and **Procreate**.
+
+---
+### **About Me**
+I spend a lot of my time reading, whether it's novels, manga, or light novels. I'm also really into anime, TV shows, and video games. I’m a pretty curious person, so I'm always down to chat about any kind of interest or hobby, even if it's something I’ve never heard of before.
+
+**Currently reading:** 86
